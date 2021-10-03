@@ -54,6 +54,7 @@ namespace лб._5
             
             Console.WriteLine("GAME OVER");
             Console.ReadKey();
+            //я скачал TortoiseGit
         }
     }
 }
